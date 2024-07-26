@@ -1,0 +1,80 @@
+
+
+
+.botoes{
+    display: flex;
+border: 30%;
+gap: 30px;
+margin-left: 15%;
+
+
+}
+
+.imagem{
+
+   
+    background-color: aqua;
+    height: 400px;
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+    border-color: black;
+    
+}
+
+
+.tela{
+display: flex;
+background-color: aqua;
+height: 400px;
+width: 600px;
+align-items: center;
+justify-content: center;
+border-color: black;
+}
+
+.quadrados{
+margin-top: 80px;
+display: flex;
+container: 500px;
+gap: 100px;
+border-color: black;
+justify-content: space-around;
+
+}
+
+.categorias{
+display: flex;
+justify-content: center;
+align-items: center;   
+background-color: blue;
+height: 150px;
+width: 250px;
+text-decoration: none;
+font-size: 35px;
+
+
+}
+.produtos{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: orange;
+height: 150px;
+width: 250px;
+text-decoration: none;
+font-size: 35px;
+
+}
+
+.vender{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: green;
+height: 150px;
+width: 250px;
+text-decoration: none;
+font-size: 35px;
+}
+
